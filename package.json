@@ -1,0 +1,11 @@
+{
+  "name": "training-personal-profile",
+  "version": "1.0.0",
+  "description": "jquery for training-personal-profile",
+  "main": "index.html",
+  "author": "ikersuen",
+  "license": "",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
